@@ -9,6 +9,8 @@
 
 - Paper Review.pdf: This file includes a brief summary of the paper/publication and its motivation.
 
+- Directory "dataset": This folder includes road and field images (original images ("fields", "roads", "test_images") and synthetic images ("augmented images")).
+
 - Directory "dataloader": This folder includes a file named load_data.py, which contains classes to create a dataloader for loading the dataset in batches.
 
 - Directory "load_param": This folder includes a file named load_param.py, which contains all hyperparameters for the training process.
