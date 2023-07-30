@@ -1,4 +1,4 @@
-# trimble_interview
+# Technical exercice
 
 
 - main.py: Run this file to load data, train models, display training and validation curves, as well as make predictions on the test set.
