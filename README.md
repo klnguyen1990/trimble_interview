@@ -1,5 +1,7 @@
 # Technical exercice
-
+- requirements.txt : this file includes a list of python packages used for this exercice.
+- OS : MacOS ventura 13.3.1
+- Version of Python : 3.9.16 
 
 - main.py: Run this file to load data, train models, display training and validation curves, as well as make predictions on the test set.
 
@@ -28,3 +30,4 @@
 
   -- Train/validation accuracy curves (png file).
   -- Train accuracy on each epoch and test accuracy (csv file) for both the encoder classification model (Encode) and multitask model (Multitask) performed on data with (aug) and without augmentation (no_aug).
+
